@@ -10,9 +10,7 @@ This repository contains a simple and elegant website landing page built using o
 - **Call-to-Action Buttons**: Two interactive buttons, styled for user engagement.
 - **Google Fonts Integration**: Custom fonts (Roboto) are used for a modern, clean look.
 
-## Preview
 
-![Landing Page Preview](preview.png)
 
 ## Technologies Used
 
